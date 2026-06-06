@@ -17,7 +17,9 @@ const app = express();
 
 // middleware
 app.use(cors({
-    origin: process.env.CLIENT_URL,
+    origin: [
+       "https://servo-app-sigma.vercel.app"
+      ],
     credentials: true,
   })
 );
@@ -46,8 +48,11 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: process.env.CLIENT_URL,
+    origin: [
+       "https://servo-app-sigma.vercel.app",
+    ],
     methods: ["GET", "POST"],
+    credentials: true,
   },
 });
 
