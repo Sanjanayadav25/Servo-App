@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/efce3f44-4a65-4a0f-9a7f-50615ba0de0d
 # 🛠️ Servo - Service Marketplace Platform
 
 Servo is a full-stack MERN application designed to connect customers with skilled service providers such as electricians, plumbers, carpenters, painters, and other professionals.The platform provides a seamless experience for both customers seeking services and providers managing service requests.
@@ -7,6 +9,7 @@ Servo is a full-stack MERN application designed to connect customers with skille
 ### Frontend
 🔗 https://servo-app-sigma.vercel.app
 
+
 ### Backend API
 🔗 https://servo-app-yp59.onrender.com
 
@@ -14,7 +17,9 @@ Servo is a full-stack MERN application designed to connect customers with skille
 
 🎬 Watch the complete project walkthrough:
 
-PASTE_YOUR_VIDEO_LINK_HERE
+
+https://github.com/user-attachments/assets/035d20b4-7906-4c4e-a285-a55475ff72d8
+
 
 ## ✨ Key Features
 
