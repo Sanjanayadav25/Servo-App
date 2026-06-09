@@ -104,6 +104,4 @@ Through this project, I gained hands-on experience in:
 - State Management in React
 - MongoDB Data Modeling
 - Cloud Deployment and Production Hosting
-- Cloud Deployment and Production Hosting  
-- Incoming Call Popup
-- Accept / Decline Call Functio
+  
